@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 testingGit_InitversionCTYB
 1Edit
 cimmit 2
 commit 3
+=======
+testingGit_InitversionctyA
+
+>>>>>>> f80180f59e56de59e8feb3d6a1744d639ad83f7d
